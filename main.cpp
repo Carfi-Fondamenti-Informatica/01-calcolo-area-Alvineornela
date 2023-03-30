@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  float a=0,b=0,c=0;
+  float a=5.2,b=1.8,c=0.3;
     float areatriangolo=0,areaquadrato=0,arearettangolo=0,areatrapezio=0;
   cout << "inserire tre numeri reali per calcolare area  \n";
 cin >> a >> b >> c;
