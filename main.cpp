@@ -5,7 +5,7 @@ int main(){
     float areatriangolo,areaquadrato,arearettangolo,areatrapezio;
   cout << "inserire tre numeri reali per calcolare area  \n";
 cin >> a >> b >> c;
-  areatriangolo=(a*b)/2;
+   areatriangolo=(a*b)/2;
     areaquadrato=(a*a);
     arearettangolo=(b*a);
     areatrapezio=((a+b)*c)/2;
