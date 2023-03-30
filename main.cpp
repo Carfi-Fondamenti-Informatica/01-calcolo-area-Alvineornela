@@ -2,8 +2,8 @@
 
 int main(){
   
-  float a,b,c;
-    float areatriangolo,areaquadrato,arearettangolo,areatrapezio;
+  float a=0,b=0,c=0;
+    float areatriangolo=0,areaquadrato=0,arearettangolo=0,areatrapezio=0;
   std::cout << "inserire tre numeri reali per calcolare area  \n";
 std::cin >> a >> b >> c;
    areatriangolo=(a*b)/2;
