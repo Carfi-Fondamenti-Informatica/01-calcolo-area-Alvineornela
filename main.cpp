@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
+  
   float a,b,c;
     float areatriangolo,areaquadrato,arearettangolo,areatrapezio;
   std::cout << "inserire tre numeri reali per calcolare area  \n";
@@ -13,6 +14,7 @@ std::cin >> a >> b >> c;
    std::cout<<"area quadrato = "<<areaquadrato<<std::endl;
    std::cout<<"area rettangolo = "<<arearettangolo<<std::endl;
    std::cout<<"area trapezio = "<<areatrapezio<<std::endl;
+  
 
 return 0;
 
