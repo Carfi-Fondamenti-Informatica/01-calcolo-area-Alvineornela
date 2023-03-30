@@ -11,8 +11,8 @@ cin >> a >> b >> c;
     arearettangolo=(b*a);
     areatrapezio=((a+b)*c)/2;
   cout<<"area triangolo = "<<(a*b)/2<<endl;
-  cout<<"area quadrato = "<<(a*a);<<endl;
-  cout<<"area rettangolo = "<<(b*a);<<endl;
+  cout<<"area quadrato = "<<(a*a)<<endl;
+  cout<<"area rettangolo = "<<(b*a)<<endl;
   cout<<"area trapezio = "<<((a+b)*c)/2<<endl;
   
 
